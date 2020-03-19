@@ -3,6 +3,10 @@
 
 Um servidor GraphQL simples que consulta a api do https://viacep.com.br
 
+## Requisitos
+
+- `node` versão 13 ou maior
+
 ## Como testar
 
 - clone o repositório
